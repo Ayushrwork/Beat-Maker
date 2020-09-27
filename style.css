@@ -137,11 +137,32 @@ select {
   text-align: center;
 }
 
+.mediaquery{
+  display: none;
+}
+
 @keyframes playTrack {
   from {
     transform: scale(1);
   }
   to {
     transform: scale(1.2);
+  }
+}
+
+
+@media screen and ( max-width: 1200px ){
+  nav{
+    display: none;
+  }
+  .sequencer{
+    display: none;
+  }
+  .mediaquery{
+    display: inline;
+  }
+  .mediaquery h1{
+    color: white;
+    text-align: center;
   }
 }
