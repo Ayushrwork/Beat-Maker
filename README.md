@@ -6,10 +6,10 @@ Beat Maker is a web app that make some cool and small beats.
 
 - UI:
 
-  <img src="">
+  <img src="https://github.com/RamejaAyush/BeatMaker/blob/master/media/beatMaker.png?raw=true">
 
 - Tempo:
 
-  <img src="">
+  <img src="https://github.com/RamejaAyush/BeatMaker/blob/master/media/tempo.png?raw=true">
 
 Check it out <a href="https://ramejaayush.github.io/BeatMaker/">here</a>
